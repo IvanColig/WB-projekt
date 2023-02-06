@@ -1,0 +1,13 @@
+"ID","IME","PREZIME","BRMOB","OIB","EMAIL","PASSWORD","SPOL"
+1,"Pavao","Simic",1664127890,12345218901,"psimic@vub.hr","123",0
+2,"Marko","Markic",1227312390,12345938901,"mmarkic@vub.hr","123",0
+3,"John","Doe",1234127890,12345678901,"johndoe@email.com","password123",0
+4,"Jane","Doe",1234092891,12345678902,"janedoe@email.com","password456",1
+5,"Bob","Smith",1234567892,12345678903,"bobsmith@email.com","password789",0
+6,"Alice","Johnson",1234567893,12345678904,"alicejohnson@email.com","password246",1
+7,"Charlie","Brown",1234567843,12345678905,"charliebrown@email.com","password369",0
+8,"Emily","Davis",1234554290,12345678906,"emilydavis@email.com","password159",1
+9,"David","Wilson",1239582890,12345678907,"davidwilson@email.com","password753",0
+10,"Elizabeth","Taylor",1024567890,12345678908,"elizabethtaylor@email.com","password951",1
+11,"Frank","Johnson",1232157890,12345678909,"frankjohnson@email.com","password852",0
+12,"Grace","Smith",1232547890,12345678910,"gracesmith@email.com","password741",1

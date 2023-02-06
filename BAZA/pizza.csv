@@ -1,0 +1,16 @@
+"ID","TYPEID","NAZIV","SASTOJCI","CIJENA"
+1,0,"Margherita","bubbly crust, tomato sauce, mozzarella, basil",13
+2,0,"BBQ Pizza","choice of steak, chicken or ham with zesty BBQ Sauce",17
+3,0,"Greek","white sauce, meat, tomatoes, onions, black olives, feta, provolone cheese",20
+4,0,"Buffalo chicken","broccoli, grilled chicken, cheddar, tomatoes, provolone cheese",20
+5,0,"Mediterranean","white sauce, garlic, onions, mushrooms",22
+6,0,"Quesadilla pizza","chicken, diced tomatoes, fresh green peppers",17
+7,0,"Cheese fry pizza","french fries, cheddar cheese sauce, mozzarella cheese",17
+8,0,"Hawaiian","ham, pineapple, bacon, provolone cheese",13
+9,0,"Brooklyn-style pizza","Brooklyn- style pizza with fresh mozzarella, plum tomato and basil",18
+10,1,"Spaghetti Carbonara","Spaghetti, Bacon, Eggs, Parmesan Cheese, Garlic, Heavy Cream, Salt, Pepper",12
+11,1,"Fettuccine Alfredo","Fettuccine, Butter, Heavy Cream, Parmesan Cheese, Salt, Pepper",14
+12,1,"Penne alla Vodka","Penne, Tomato Sauce, Vodka, Heavy Cream, Onions, Garlic, Salt, Pepper",15
+13,1,"Linguine with Clam Sauce","Linguine, Clams, White Wine, Garlic, Olive Oil, Butter, Parsley, Salt, Pepper",16
+14,1,"Lasagna Bolognese","Lasagna noodles, beef, tomato sauce, mozzarella cheese, parmesan cheese",25
+15,1,"Gnocchi Pomodoro","Gnocchi, tomato sauce, basil, parmesan cheese",22
