@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+#header div a.logo img {
+  width: 100px;
+}
+#header div ul li a:hover{
+  color: coral;
+}
+
+#bg-header-about img{
+  width: 960px;
+  height: 200px;
+  display: block;
+  position: relative;
+}
+
+#podaci {
+  color: white;
+  position: absolute;
+  top: 7px;
+  right: 40px;
+  line-height: 80%;  
+}
+
+.card{
+  margin-top: 200px;
+}
+
+.bt1{
+  float: right;
+  justify-self: flex-end;
+}

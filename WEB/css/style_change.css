@@ -1,0 +1,77 @@
+/* Website template by freewebsitetemplates.com */
+a {
+	text-decoration: none;
+	outline: none;
+}
+a:active {
+	background: none;
+}
+img {
+	border: none;
+}
+/*----------------------------------------header-styles---------------------------------------*/
+#header {
+	background-color: black;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	width: 100%;
+}
+#header div {
+	margin: 0 auto;
+	max-width: 940px;
+	overflow: hidden;
+	padding: 41px 10px 27px;
+}
+#header div a.logo {
+	float: left;
+	margin: 0 0 0 29px;
+	padding: 0;
+	width: auto;
+}
+#header div a.logo img {
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: auto;
+}
+#header div ul {
+	display: inline-block;
+	list-style: none outside none;
+	margin: 0 auto;
+	padding: 24px 0 0;
+	text-align: center;
+	width: 700px;
+}
+#header div ul li {
+	display: inline-block;
+	*float: left; 
+	margin: 0 20px;
+	padding: 0;
+	position: relative;
+	width: auto;
+}
+#header div ul li a {
+	color: #a7a1a1;
+	font-family: lato-regular-webfont;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 15px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	text-transform: uppercase;
+}
+/*----------------------------------------footer-styles---------------------------------------*/
+#footer {
+	background-color: #cb3362;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+#footer div {
+	margin: 0 auto;
+	max-width: 960px;
+	overflow: hidden;
+	padding: 59px 0 13px;
+}
